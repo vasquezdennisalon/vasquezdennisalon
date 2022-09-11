@@ -57,8 +57,6 @@ Yo soy Denis Vásquez, un apasionado estudiante de ingeniería en ciencias y sis
 ### Estadisticas 
 ![](https://github-readme-stats.vercel.app/api?username=vasquezdennisalon)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vasquezdennisalon&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fcoterroba&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vasquezdennisalon&layout=compact&bg_color=#e4e2e2&text_color=#fff)
 
 ### Contáctame 
